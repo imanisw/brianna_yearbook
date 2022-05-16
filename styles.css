@@ -30,7 +30,10 @@ html{
     max-height: 50vh;
 }
 
+.row{
+ justify-content: space-between;   
 
+}
 .container1{
 
     color: white;
